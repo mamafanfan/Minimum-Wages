@@ -1,3 +1,6 @@
-name: Your New Jekyll Site
+name: Is this Real? Your New Jekyll Site
 markdown: redcarpet
 pygments: true
+baseurl: http://mamafanfan.github.io/Minimum-Wages
+
+

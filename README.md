@@ -1,10 +1,4 @@
 ---
-output:
-  html_document:
-    highlight: pygments
-    keep_md: yes
----
----
 title: "README"
 author: "ac"
 date: "24/01/2015"
